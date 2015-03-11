@@ -19,7 +19,7 @@
     "bower_components"
   ],
   "dependencies": {
-    "angular": "~1.2.19"
+    "angular": "^1.3"
   },
   "main":"build/roundProgress.min.js"
 }
